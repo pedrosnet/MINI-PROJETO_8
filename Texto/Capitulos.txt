@@ -1,0 +1,120 @@
+CAPITULO 
+NOME
+CAPITULO 1
+TEXTO 
+Você acorda em uma sala estranha, e em você há um papel colocado com: 'Jogador 42' \nVocê escuta um voz que sai de um alto falante no canto da sala:\n - Seja bem-vindo ao teste de sua vida! \nvocê vai passar por 3 teste, se você errar, ou se você demorar demais você levará um choque, \ncontudo se você acertar, eu que levarei um choque, enfim, boa sorte! \nUma porta a sua frente se abre, o que fazer? \n 
+PERSONAGEM
+Mascarado
+VARIAÇÃO DE ENERGIA
+0
+
+CAPITULO 
+NOME
+CAPITULO 2 - PRIMEIRO TESTE 
+TEXTO 
+Você acertou a charada, \nVocê escuta um som de choque e gritos\nContudo você continua sua jornada \n \nUma porta se abre e você vai até ela\nAo entrar você vê outro papel a sua frente,\n no papel está escrito:\nQual cor forma se misturarmos azul com vermelho? \n qual porta entrar?
+PERSONAGEM
+Mascarado
+VARIAÇÃO DE ENERGIA
+-15
+
+CAPITULO 
+NOME
+CAPITULO 3 - SEGUNDO TESTE 
+TEXTO 
+Após chegar na nova sala, você se depara com uma mesa com uma cara em cima \nvocê vai até ela e de abre, e nela está escrito: \nO que é, o que é, Sobe, sobe, sobe e jamais desce... 
+PERSONAGEM
+Mascarado
+VARIAÇÃO DE ENERGIA
+-15
+
+CAPITULO 
+NOME
+CAPITULO 4 - TERCEIRO TESTE 
+TEXTO 
+Você chegar em uma sala com uma porta aberta, \ne nela se encontra um copo com algo que se parece com água, \na porta para a próxima sala se encontra aberta, \ncontudo seu cansaço fala mais alto, o que fazer? 
+PERSONAGEM
+Mascarado
+VARIAÇÃO DE ENERGIA
+-15
+
+CAPITULO 
+NOME
+CAPITULO 5 - FINAL 
+TEXTO 
+Ao entrar na sala você vê um homem de preto \ne ele diz que é o criador daquilo tudo,\nele fala que você ir embora pela porta ao lado \nVocê lembra por tudo que passou e: 
+PERSONAGEM
+Mascarado
+VARIAÇÃO DE ENERGIA
+-15
+
+CAPITULO 
+NOME
+FINAL 01 - A FALHA
+TEXTO 
+Você falhou no teste, tente novamente!
+PERSONAGEM
+jogador42
+VARIAÇÃO DE ENERGIA
+-100
+
+CAPITULO 
+NOME
+FINAL 02 - COVARDE
+TEXTO 
+Você decidiu fugir, você não quer lutar mais, você não quer mais tentar...
+PERSONAGEM
+Jogador42
+VARIAÇÃO DE ENERGIA
+0
+
+CAPITULO 
+NOME
+FINAL 03 - LUTA
+TEXTO 
+Você decide lutar, você usa tudo de si, uma porta se abre ao seu lado e você sabe que vai ter que lutar de novo...
+PERSONAGEM
+Mascarado
+VARIAÇÃO DE ENERGIA
+-99
+
+ESCOLHA
+CAPITULO DE ORIGEM
+CAPITULO 1 - O INICIO
+TEXTO
+Continuar
+CAPITULO DE DESTINO
+CAPITULO 2 - PRIMEIRO TESTE 
+
+
+ESCOLHA
+CAPITULO DE ORIGEM
+CAPITULO 2 - PRIMEIRO TESTE 
+TEXTO
+Roxo
+CAPITULO DE DESTINO
+CAPITULO 3 - SEGUNDO TESTE 
+
+ESCOLHA
+CAPITULO DE ORIGEM
+CAPITULO 3 - SEGUNDO TESTE 
+TEXTO
+Idade
+CAPITULO DE DESTINO
+CAPITULO 4 - TERCEIRO TESTE 
+
+ESCOLHA
+CAPITULO DE ORIGEM
+CAPITULO 4 - TERCEIRO TESTE 
+TEXTO
+Seguir
+CAPITULO DE DESTINO
+CAPITULO 5 - FINAL 
+
+ESCOLHA
+CAPITULO DE ORIGEM
+CAPITULO 5 - FINAL 
+TEXTO
+Lutar
+CAPITULO DE DESTINO
+FINAL 03 - LUTA
